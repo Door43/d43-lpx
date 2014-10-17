@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lpx:home|Door43 (lpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lpx|d43-lpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lpx/archive/master.zip|d43-lpx.zip]]
+
+**Recent Changes**
+{{changes>ns = lpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lpx|Ethnologue data]]
+
