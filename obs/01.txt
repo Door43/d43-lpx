@@ -1,4 +1,4 @@
-<blockquote>Mark text as blockquote</blockquote>====== 1. The Creation ======
+<blockquote>Mark text as blockquote</blockquote>====== 1. AYIEU HOLLUM HIRRO  ======
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg}}
@@ -80,16 +80,11 @@ Niya, eijo Hollum, "Obe olibo de hito lolewa ha manyari hamai." Hati obe iso cia
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg}}
 
 
-So God made Adam fall into a deep sleep. Then God took one of Adam’s ribs and made it into a woman and brought her to him.
-
 Ette Hollum hatiferik Adam binno. Niya, aŋadumu Hollum mariti naboite tara Adam ette ŋayiek hatara a hito noŋorwo ette ŋayiani inyeja do honyie.
 
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg}}
-
-
-When Adam saw her, he said, “At last! This one is like me! Let her be called ‘Woman,’ for she was made from Man.” This is why a man leaves his father and mother and becomes one with his wife.
 
 Ifa ewolo Adam inyeja, ette hijo, "Ara innaŋ iyya naŋ! Ara iso fure nohonyie 'noŋorwo', nyo eyieuni ifa inyeja tara hito lo lewa." Inyeja ne eibusak hito lolewa monye honyie ojo hotonye honyie ette hira naboite ho noŋorwo honyie. 
 
@@ -97,18 +92,13 @@ Ifa ewolo Adam inyeja, ette hijo, "Ara innaŋ iyya naŋ! Ara iso fure nohonyie '
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg}}
 
 
-God made man and woman in his own image. He blessed them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was very good, and he was very pleased with all of it. This all happened on the sixth day of creation.
-
 Eyieu ifa Hollum hito lolewa ho hito noŋorwo te rijori nohonyie. Ojok inyeja isieja ette ŋelimak do hosie, "Ituwana ho durre arria ho durre illo durre illahatai anyar litufutak fau inna." Ette Hollum hiwolo hirro inna layieu inyie daŋ ette hijo olibo binno.
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg}}
 
 
-When the seventh day came, God had finished his work. So God rested from all he had been doing. He blessed the seventh day and made it holy, because on this day he rested from his work. This is how God created the universe and everything in it.
-
 Ifa lera hitahatarihi no holoŋ, aŋaisohak ifa Hollum igem nohonyie. Niya, ette Hollum ŋayiru tara igem nafa eigiema inyie. Ejok inyeja hitahatarihi no no holoŋ hijo hotoduwara, nyo ta far inno ayiru inyeja te igem nohonyie. Inyeja inna oyieu Hollum fau ho hirro daŋ inno lowuon da fau. 
 
-//A Bible story from: Genesis 1-2//
+// Hiterita 1-2 //
 
-Hiterita 1-2
