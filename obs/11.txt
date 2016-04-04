@@ -1,53 +1,35 @@
-====== 11. LAŊITA ======
+====== 11. Laŋita ======
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
 
 Osor Hollum Farao hijo lebeŋ iyye lebusak huwo ille Israile hefie, ette hido inyi ŋatohe loŋeuha liawa illo huwo illo Masir ho ciaŋi. Nafa letiru Farao inne arrasa inyeja hibo hiruk ojo haniŋe Hollum.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?direct&}}
 
 Esio Hollum hoi hetiluahini loŋeuha durre liawa ino lobo tihoni le eruk do honyie. Hetenyimu woyojin lenyi ker lalanyar hototoi ette hiso do honyie.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?direct&}}
 
 Elimak Hollum Israile hehumak nabo hoto nolenyi ker tekatin ha hajik inohose, hefufik hiriŋo ette hinya kuak, ho imune nafa ehumak obe bula. Elimak hidofe inyeja isieja heibusari Masir laŋatohu isieja.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?direct&}}
 
 Ehum hati huwo illo Israile hirro daŋ iya nafa elimak Hollum do hosie. Te hiji ha harie einno Hollum de hiji no doŋe na Masir ette toho durre leŋeuha.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
 
 Hajik ino Israile daŋ owana hohoto de ikatin, elaŋ hati Hollum hajik niya daŋ. Huwo daŋ ilafa owon tohotuai hajik etiluahini. Etiluahini ifa isejia tohoto to no ker.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
 
 Hati obe huwo illo Masir eruk to Hollum obe hidofe isieja eruk de hifahita inno Hollum. Enyie hati Hollum ha lalaŋ hajik innohose. Atohe hati Hollum loŋeuhua illo durre illo Masir.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
 
 Oye oŋehua liawa illo Masir daŋ, do loŋehua illo huwo luha lowuon te efitari, to loŋieu lo Farao. Oyo huwo ariai illo Masir eluluo to diahai.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
 
 Ta tari nyia, eliloŋo Farao Musa ho Arone elimahini hijo, "Yari huwo ile Israile ette itai ebusak Masir iyania." Ette hidofe huwo illo Masir hiruk huwo illo Israil hebusak Masir kokuak.
 
-
-
-// Hiwotita 11.1-12.32 //
+//Hiwotita 11.1-12.32 //
