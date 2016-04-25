@@ -1,31 +1,23 @@
-//Translation for the unfoldingWord mobile app interface // 
+//Hiloito no hiram nemuho inne eremik iyye ehumak etoŋitari// 
 
 
-Select a language: Select a Language
+Tonyimu hirori: Onyimu Hirori
 
+Ŋacio: ŋacio
 
-Chapters: Chapters
+Hirorita: Hirorita
 
-
-Languages: Languages
-
-
-Next chapter: Next Chapter
-
+Ŋati toolo: ŋati Toolo
 
 OK: OK
 
+Ibwara: Ibwara
 
-Cancel: Cancel
+Otunak ho iye: Otunak ho iye
 
+Otunak hofito inna: otunak Hirori inna ho iye amai ne ihu iye egiamari (save this string)
 
-Save locally: Save Locally
+Ihumu ade: Ihumu ade
 
+Ihumu hofito  inna: Todumu hofito inna tere otunari  honyie. Iwak iso iye oyami no computer anyar honyie ewolo moi.
 
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
