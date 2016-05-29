@@ -1,53 +1,35 @@
-====== 41. Etidet Hollum Yesu to Ye ======
+﻿====== 41. Etidet Hollum Yesu to Ye ======
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?direct&}}
 
 Da halu ne ŋesihok ni loseŋer Yesu, eijo Yudea illo lobe leiruk de Pilato, ’’Italer ne, lara Yesu, ojo hijio abuhu iso inyeja to ye dehalu no holoŋitek hunik. Anyar leiriria lobo to honi ilume nyo ayar lobe lefahat lohoholu wan honyie ette hijio aŋaibuhu inyeja te yei."
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?direct&}}
 
+Eijo Pilato, “Iyari loseŋer ilak eririari ilume nyia iya eremik itai.” Aŋa fiak hetihoni to ojiŋari ne ilume hojo ho fiak oseŋer anyar le riri hettenya lobo to honi lohoholu wan no Yesu.
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg}}
-
-Eijo Pilato, “Iyari loseŋer ilak eririari ilume nyia iya eremik itai." Aŋa fiak hetihoni to ojiŋari ne ilume hojo ho fiak oseŋer anyar le riri hettenya lobo to honi lohoholu wan no Yesu.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?direct&}}
 
 Tahalu hafar nafa nyia lonuhari hiyio Yesu, ara ifa tominika inna eyomori Yudea, ette isieja hafie ade elume. Tahalu no Dominika to moite beren, oluŋa ifa ŋorwo inno ehuhuma hijo efi elume no Yesu hijo efi ŋafiyak hitiduarita to kwan honyie.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-04.jpg?direct&}}
 
 Tawak owana okitik. Ette Anjilo hiduoŋ le ede no obwor biny biny iya himedek no hila te etou. Ette ŋasulai moruo nafa hitok to ojiŋari ne ilume ette ŋahunyai de. Oseŋer illafa leriria de ogolori ho huyita to fau iya huwo hulo oye.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?direct&}}
 
+Ifa leiba ŋorwo te onuhari, elimak Anjilo isieja, idek hebaŋ. ‘Enyai Yesu teni. Eŋebuhu to ye, iya ojo inyeja hijio ebuhu iso inyeja!’’ Itiwolo onuhari" “Owolo ŋorwo ilume ette ŋegonyu mai nafa etifierehini huwo Yesu, enyai kwan no honyi tere!
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?direct&}}
 
-Ifa leiba ŋorwo te onuhari, elimak Anjilo isieja, idek hebaŋ. 'Enyai Yesu teni. Eŋebuhu to ye, iya ojo inyeja hijio ebuhu iso inyeja!’’ Itiwolo onuhari" "Owolo ŋorwo ilume ette ŋegonyu mai nafa etifierehini huwo Yesu, enyai kwan no honyi tere!
+Eijo Anjilo elimak ŋorwo nuhe “Ifieti ilimak efahat, hijo eŋebuhu Yesu to ye, ohu ŋainno Agalileyo to hosiere hatai.’”
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg}}
-
-Eijo Anjilo elimak ŋorwo nuhe "Ifieti ilimak efahat, hijo eŋebuhu Yesu to ye, ohu ŋainno Agalileyo to hosiere hatai.'"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?direct&}}
 
 Owanai ŋorwo inne habaŋi ette hitofe munoi binnono. Eiro hijio aŋafi ŋelimak lefahat sayie no olibo.
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?direct&}}
 
+Holowuon ŋorwo nuhe tekoi hijo enyeriei sayie te efahat, eŋetilieu Yesu wan to hosi, ette isieja rigoŋo to honyi, ette Yesu hijo do hosie “Idek haibaŋ. Ifieti ilimak efahat hanaŋ hefi a Galileya. Ofwo iso hiwolo naŋ tere.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg}}
-
-Holowuon ŋorwo nuhe tekoi hijo enyeriei sayie te efahat, eŋetilieu Yesu wan to hosi, ette isieja rigoŋo to honyi, ette Yesu hijo do hosie "Idek haibaŋ. Ifieti ilimak efahat hanaŋ hefi a Galileya.  Ofwo iso hiwolo naŋ tere."
-
-
-
-// Hiyebita inno Bibia Tere: Matteyo 27:62-28:15; Marko 16:1-11; Luka 24:1-12; Yoani 20:1-18 //
+//Hiyebita inno Bibia Tere: Matteyo 27:62-28:15; Marko 16:1-11; Luka 24:1-12; Yoani 20:1-18//

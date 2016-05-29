@@ -1,4 +1,4 @@
-====== 2. Aŋawoŋ Hiyau Da Fau ======
+﻿====== 2. Aŋawoŋ Hiyau Da Fau ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?direct&}}
 
@@ -10,11 +10,11 @@ Hati owuon ifa munu hainyejabani da mana, eifia munu hito noŋorwo hijo, hojo Ho
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-03.jpg?direct&}}
 
-Eitiraŋ hito noŋorwo hijo, "Ojo Hollum do hooi itidahai yani daŋ inne ta mana, hati baŋa adaha yani no hiyyen, ojo Hollum do hooi 'lidaha itai tara yani, hiraf na iyyei itai.'"
+Eitiraŋ hito noŋorwo hijo, “Ojo Hollum do hooi itidahai yani daŋ inne ta mana, hati baŋa adaha yani no hiyyen, ojo Hollum do hooi ‘lidaha itai tara yani, hiraf na iyyei itai.’”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?direct&}}
 
-Ette munu hijo do hito noŋorwo, "Obe lara ania, ibe iso itai iyie, eyien Hollum hijo linyeja itai, iwuon iso itai iyya Hollum liyien iso itai nyaru ho run iyya eyien inyeja."
+Ette munu hijo do hito noŋorwo, “Obe lara ania, ibe iso itai iyie, eyien Hollum hijo linyeja itai, iwuon iso itai iyya Hollum liyien iso itai nyaru ho run iyya eyien inyeja.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?direct&}}
 
@@ -26,26 +26,26 @@ Ette honyehite innohosie riŋai, aŋaigonyu isieja kwanite innohosie lowuon aŋa
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?direct&}}
 
-Ette tihoni ho hito noŋorwo ŋaitiru loton no Hollum da mana, ette Hollum hililoŋ hito lolewa, "Tahu iyye?" Ojo Adam ette hitiraŋ "Aŋaitiru naŋ iyye elot da mana, abaŋ naŋ iyye, awuon naŋ aŋaturre."
+Ette tihoni ho hito noŋorwo ŋaitiru loton no Hollum da mana, ette Hollum hililoŋ hito lolewa, “Tahu iyye?” Ojo Adam ette hitiraŋ “Aŋaitiru naŋ iyye elot da mana, abaŋ naŋ iyye, awuon naŋ aŋaturre.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?direct&}}
 
-Ette Hollum hifi, "Ŋai leilimak itai hijo liwuon itai aŋaturre? Aŋanyau itai yani nara eitik naŋ?" Eijoo tihoni, "Eiso iyye naŋ hito noŋorwo inna, inyeja eiso naŋ yani ne." Efi Hollum hito noŋorwo hijo, hihum itai nyo?" Eitiraŋ hito noŋorwo, "Einyob naŋ munu."
+Ette Hollum hifi, “Ŋai leilimak itai hijo liwuon itai aŋaturre? Aŋanyau itai yani nara eitik naŋ?” Eijoo tihoni, “Eiso iyye naŋ hito noŋorwo inna, inyeja eiso naŋ yani ne.” Efi Hollum hito noŋorwo hijo, hihum itai nyo?" Eitiraŋ hito noŋorwo, “Einyob naŋ munu.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?direct&}}
 
-Eijoo Hollum do munu, "Aipit naŋ iyye, elot iso iyye tohosehe noho, idaha iso iyye modie iyye ho noŋorwo hoi eliwa iso itai to kwanite, ojo to durre innohoi ho durre innohonyie eliwari iso isieja kwanite. Ojo do woyo no hito noŋorwo orie iso hoo nohoi eijo iso iyye eihony tutunyo nohonyie."
+Eijoo Hollum do munu, “Aipit naŋ iyye, elot iso iyye tohosehe noho, idaha iso iyye modie iyye ho noŋorwo hoi eliwa iso itai to kwanite, ojo to durre innohoi ho durre innohonyie eliwari iso isieja kwanite. Ojo do woyo no hito noŋorwo orie iso hoo nohoi eijo iso iyye eihony tutunyo nohonyie.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?direct&}}
 
-Eijoo Hollum do hito noŋorwo, "Eiso iso naŋ do hoi diahai ne hitado no hito hati inyeja iso iyye wahan hito lolewa ojo inyeja eitolojori iyye."
+Eijoo Hollum do hito noŋorwo, “Eiso iso naŋ do hoi diahai ne hitado no hito hati inyeja iso iyye wahan hito lolewa ojo inyeja eitolojori iyye.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?direct&}}
 
-Eijoo Hollum da tihoni, "Eitira iyye do noŋorwo hoi ibe iyye leiruk naŋ. Aina eipit naŋ fau daŋ. Igema iso iyye nologol anyar liwuon ho daha-eijo to hoi, acahari iso kwan nohoi a modie." Eifurek Adam hito noŋorwo hatara Eva no lojo, heisiarani "no waran," Ara iso inyeja a hotonye fau daŋ. Eiso Hollum ho Eva hetecefoi yoni inne ciaŋi.
+Eijoo Hollum da tihoni, “Eitira iyye do noŋorwo hoi ibe iyye leiruk naŋ. Aina eipit naŋ fau daŋ. Igema iso iyye nologol anyar liwuon ho daha-eijo to hoi, acahari iso kwan nohoi a modie.” Eifurek Adam hito noŋorwo hatara Eva no lojo, heisiarani “no waran,” Ara iso inyeja a hotonye fau daŋ. Eiso Hollum ho Eva hetecefoi yoni inne ciaŋi.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?direct&}}
 
-Eijoo Hollum, "Aina owuana huwo inno ecialari iyya iyohooi, eyien nyarru ho run, hotobiaŋa isieja adaha haŋer inne yani no waran anyar lamanya many fur." Ette Hollum ŋaifuhak Adam ho Eva tara man ne nelahaman, ette Hollum ŋaiturutak Anjilohien de ikat ne lejiŋitari huwo a mana,eririari hijo hotobiaŋa ladaha haŋer inne yani no waran.
+Eijoo Hollum, “Aina owuana huwo inno ecialari iyya iyohooi, eyien nyarru ho run, hotobiaŋa isieja adaha haŋer inne yani no waran anyar lamanya many fur.” Ette Hollum ŋaifuhak Adam ho Eva tara man ne nelahaman, ette Hollum ŋaiturutak Anjilohien de ikat ne lejiŋitari huwo a mana,eririari hijo hotobiaŋa ladaha haŋer inne yani no waran.
 
-//Hiterita 3 //
+//Hiterita 3//

@@ -1,4 +1,4 @@
-====== 11. Laŋita ======
+﻿====== 11. Laŋita ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
 
@@ -30,6 +30,6 @@ Oye oŋehua liawa illo Masir daŋ, do loŋehua illo huwo luha lowuon te efitari,
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
 
-Ta tari nyia, eliloŋo Farao Musa ho Arone elimahini hijo, "Yari huwo ile Israile ette itai ebusak Masir iyania." Ette hidofe huwo illo Masir hiruk huwo illo Israil hebusak Masir kokuak.
+Ta tari nyia, eliloŋo Farao Musa ho Arone elimahini hijo, “Yari huwo ile Israile ette itai ebusak Masir iyania.” Ette hidofe huwo illo Masir hiruk huwo illo Israil hebusak Masir kokuak.
 
-//Hiwotita 11.1-12.32 //
+//Hiwotita 11.1-12.32//

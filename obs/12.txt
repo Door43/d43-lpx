@@ -1,4 +1,4 @@
-====== 12. Hiwotita ======
+﻿====== 12. Hiwotita ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-01.jpg?direct&}}
 
@@ -14,11 +14,11 @@ Da halu, Farao ho huwo honye eloit higigilita innohosie awahan Israile inyak hat
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-04.jpg?direct&}}
 
-Niya Farao iko loseŋer illohonyie ejufari halu ne Israile hotocohohini apiti hose. Nafa ewolo huwo ille Israile hijo afanu huwo illa Masir da halu hose. Egil hijio atidahini esie do hiji no oseŋer ha hari na Hittok ette isieja hilafuho oyori hijio, "Nyio ida ifanu iyohooi to doŋe na Masir? Efi iyohooi ye!"
+Niya Farao iko loseŋer illohonyie ejufari halu ne Israile hotocohohini apiti hose. Nafa ewolo huwo ille Israile hijo afanu huwo illa Masir da halu hose. Egil hijio atidahini esie do hiji no oseŋer ha hari na Hittok ette isieja hilafuho oyori hijio, “Nyio ida ifanu iyohooi to doŋe na Masir? Efi iyohooi ye!”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-05.jpg?direct&}}
 
-Elimak Musa Israile hijio ito, "Ibusak hilafuho! Hollum iso lohu hira ahariomoni da hatai do far inna ena etilwahu iso itai." Ette Hollum elimak Musa, "Ilimak huwo hoto lotohini ade ahari na Hittok."
+Elimak Musa Israile hijio ito, “Ibusak hilafuho! Hollum iso lohu hira ahariomoni da hatai do far inna ena etilwahu iso itai.” Ette Hollum elimak Musa, “Ilimak huwo hoto lotohini ade ahari na Hittok.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-06.jpg?direct&}}
 
@@ -56,4 +56,4 @@ Omunoi Israile nyo Hollum ifa etiluahu isieja to ye ho to hipito! Nia egiama isi
 
 Edulori Hollum Israile hitihabwe holoŋi hiya daŋ hotogilu anyar egigiluni nijio etigalik Hollum isieja miorok illo hosie Masir. Hidofe etilwahu isieja to hipito. Etihabwo isie to toho oker ille lelibo adahari imune nafa efiek isieja obe bula.
 
-//Hiwotita 12.33-15.21 //
+//Hiwotita 12.33-15.21//

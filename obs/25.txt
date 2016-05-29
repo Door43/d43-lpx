@@ -1,53 +1,35 @@
-====== 25. Ekem Sitan Yesu ======
+﻿====== 25. Ekem Sitan Yesu ======
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?direct&}}
 
 Tahalu ho hibatiso no Yesu, edihori Oyiri no Olibo no Hollum inyeja afau inna lobe huwo amanyari, nafa etidwarari inyeja man holoŋitek tomwana aŋuan ho hariejin tomwana aŋuan. Ette sitan awoŋ to Yesu ette hikem inyeja hijo heyau.
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?direct&}}
 
 Ekem Sitan Yesu hijo, “Lira iye Lenyi lo Hollum, iloito moru inno hatara imune anyar edaha iye.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?direct&}}
 
+Ette Yesu hitiraŋ, “Egioro to hiram no Hollum, ‘obe huwo awak imune hamai anyar amanyari, hati awak isieja hiram no ero Hollum.’”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?direct&}}
 
-Ette Yesu hitiraŋ, “Egioro to hiram no Hollum, 'obe huwo awak imune hamai anyar amanyari, hati awak isieja hiram no ero Hollum.'”
+Teya, ette Sitan eyari Yesu ahide hahaji imojit ette hijo, ”Lira iye hito lo Hollum, ibire wan nohoi afau, iya egioro, ojo ‘Hollum afanu iso efahat illohonyie akafari iye ojo hejek innohoi obe ekos to moruo.’"
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?direct&}}
 
+Ette Yesu hitiraŋ Sitan hijo egioro hikilita inno Bibia hijo, “To hiram no Hollum, elimak inyeja huwo iye ‘Baŋa ekem Habu Hollum lohoi.’”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg}}
-
-Teya, ette Sitan eyari Yesu ahide hahaji imojit ette hijo, ”Lira iye hito lo Hollum, ibire wan nohoi afau, iya egioro, ojo 'Hollum afanu iso efahat illohonyie akafari iye ojo hejek innohoi obe ekos to moruo.’"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg}}
-
-Ette Yesu hitiraŋ Sitan hijo egioro hikilita inno Bibia hijo, "To hiram no Hollum, elimak inyeja huwo iye 'Baŋa ekem Habu Hollum lohoi.'”
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?direct&}}
 
 Teya ette Sitan etihutek Yesu ahabwe nohonyie ho ohuo nafau daŋ, ette hijo, ”Esio naŋ inna to hoi daŋ eyiak iye rigoŋo da fau ette iye mojo Tahanaŋ.”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg?direct&}}
 
+Ette Yesu hitiraŋ, Sitan! “Inno ade tere hanaŋ. To hiram no Hollum, ojo inyeja to huwo illohonyie, ’To moje da hanag hamai monyie hoi ojo hidofe iye egiama da hanaŋ.”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-07.jpg}}
-
-Ette Yesu hitiraŋ, Sitan! “Inno ade tere hanaŋ. To hiram no Hollum, ojo inyeja to huwo illohonyie, 'To moje da hanag hamai monyie hoi ojo hidofe iye egiama da hanaŋ.”
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?direct&}}
 
 Obe Yesu etaban ho hitigiemita inno Sitan, teya ette Sitan edek inyeja. Ette Anjilohien afanu hutulwak Yesu.
 
-
-
-// Hiyebita inno Bibia tere Matteyo 4:1-11; Marko 1:12-13; Luka 4:1-13 //
+//Hiyebita inno Bibia tere Matteyo 4:1-11; Marko 1:12-13; Luka 4:1-13//

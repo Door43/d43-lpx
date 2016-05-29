@@ -1,4 +1,4 @@
-====== 3. Hibula ======
+﻿====== 3. Hibula ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
@@ -50,7 +50,7 @@ Eitila Noa isabit naboite ette, ŋaifahak wollo da far ne, aŋarumu mai otte te 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?direct&}}
 
-Da halu he yafajin arik, eijo Hollum do Noa, "Iyye ha woyo nohoi daŋ ojo ciaŋi anyar leibusak togoli iyane. To wuana ho durre ojo durre inno dure illo hoi ojo ifutak fau. "Niya aŋafanu Noa ha woyo no honyie a de to togoli.
+Da halu he yafajin arik, eijo Hollum do Noa, “Iyye ha woyo nohoi daŋ ojo ciaŋi anyar leibusak togoli iyane. To wuana ho durre ojo durre inno dure illo hoi ojo ifutak fau.”Niya aŋafanu Noa ha woyo no honyie a de to togoli.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?direct&}}
 
@@ -58,10 +58,10 @@ Ifa laŋawoŋ Noa a de to togoli, ette irigie loboite illafa lara ijohiti. Omuno
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?direct&}}
 
-Eijo Hollum "Abe iso inyie einyejak ŋaterok toro na fau te hiyata te inne leigem huwo nafau te hirro inne leihumak hibula, amara hido huwo ahayak many to lodure."
+Eijo Hollum “Abe iso inyie einyejak ŋaterok toro na fau te hiyata te inne leigem huwo nafau te hirro inne leihumak hibula, amara hido huwo ahayak many to lodure.”
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?direct&}}
 
 Ette Hollum hati ŋaihumak hiterie ne leihilok hatara ihieriti innohonyie. Aholoŋi daŋ lojo leihilok leleu te ido eiso Hollum ŋagilu ŋaterok no honyie ho huwo illo honyie.
 
-//Hirerita 6-8 //
+//Hirerita 6-8//
